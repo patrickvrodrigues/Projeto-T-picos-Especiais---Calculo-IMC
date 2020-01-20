@@ -1,0 +1,7 @@
+Aplicação de CALCULO IMC, Como usar:
+
+-Primeiro, deverá ser executada usando um emulador.
+-A primeira tela exibida, será um formulário com os campos: "Nome", Radio ("Homem ou Mulher"),
+"Idade","Altura","Peso" e CheckBox("Fumante","Cardiaco" e "Asmatico").
+-Após preenchido e marcado os respectivos campos, clique na opção Calcular.
+-O Aplicativo retornará em uma nova tela o resultado do calculo com sua respectiva ficha cadastral.
